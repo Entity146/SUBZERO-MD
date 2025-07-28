@@ -1,5 +1,5 @@
 module.exports = {
-  SESSION_ID: "SUBZERO-MD;;;vAVijJ5a#ufdpyiNrxN1h4UPGYsFpL5xE2PzTXaFJl4i2RIvz470", // Put Session Id Here Inside "*"
+  SESSION_ID: "SUBZERO~dc2d12546d6c93cbae00d9e319d0c070e8080460", // Put Session Id Here Inside "*"
   OWNER_NUMBER: "+2348074553904", // 08074553904
   PREFIX: "." // Default Prefix You Can Change To .,*!?+-&%#@
 };
